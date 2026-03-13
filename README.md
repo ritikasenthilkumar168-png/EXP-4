@@ -18,13 +18,11 @@ All rectifier outputs contain considerable amount of ripple in addition to the D
 Capacitor input filter, choke input filter, RC, CRC, LC, and CLC filters are the usually used filters. Capacitor input filter is the simplest and cheapest. A high value capacitor C is connected in shunt with the load resistor     . Capacitor charges to peak voltage      when the half cycle appears at the output. After the peak value is passed, the capacitor discharges through the load resistor slowly since the diode is reverse biased by the capacitor voltage. Before the capacitor voltage drops substantially, next output cycle arrives and the capacitor recharges to peak.
 Rectifier Efficiency
 Rectifier efficiency is defined as the ratio of DC output power to the input power from the AC supply. Even with ideal rectifiers with no losses, the efficiency is less than 100% because some of the output power is AC power rather than DC which manifests as ripple superimposed on the DC waveform.
-
 # PROCEDURE:
 1.   Wire up the half wave rectifier circuit without capacitor after testing all the components.
 2.   Switch on the main supply. Observe the transformer secondary voltage waveform and output voltage waveform across the load resistor, simultaneously on the CRO screen. Note down       and calculate
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
-
 # CIRCUIT DIAGRAMS:
 HALF WAVE RECTIFIER:
 ![alt text](<WhatsApp Image 2026-03-13 at 11.40.56 PM.jpeg>)
@@ -32,25 +30,21 @@ WITHOUT FILTER:
 ![alt text](<Screenshot 2026-03-13 230230.png>)
 WITH FILTER:
 ![alt text](<Screenshot 2026-03-13 231151.png>)
-
 FULL WAVE RECTIFIER:
 ![alt text](<WhatsApp Image 2026-03-13 at 11.41.48 PM.jpeg>)
 WITHOUT FILTER:
 ![alt text](<Screenshot 2026-03-13 231602.png>)
 WITH FILTER:
 ![alt text](<Screenshot 2026-03-13 232558.png>)
-
 # TABULAR COLUMN & MODEL GRAPH:
 HALF WAVE RECTIFIER:
 ![alt text](<WhatsApp Image 2026-03-13 at 11.41.26 PM.jpeg>)
 FULL WAVE RECTIFIER:
 ![alt text](<WhatsApp Image 2026-03-13 at 11.41.48 PM.jpeg>)
-
 # GRAPH:
 HALF WAVE RECTIFIER:
 ![alt text](<WhatsApp Image 2026-03-13 at 11.31.33 PM.jpeg>)
 FULL WAVE RECTIFIER:
 ![alt text](<WhatsApp Image 2026-03-13 at 11.32.28 PM.jpeg>)
-
 # RESULT:
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
