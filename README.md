@@ -2,7 +2,7 @@
 # EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 # AIM: 
 To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
-# COMPONENTS  AND  EQUIPMENT  REQUIRED:  
+COMPONENTS  AND  EQUIPMENT  REQUIRED:  
 Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.
 # THEORY: 
 Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is utilised in rectifiers.
@@ -18,7 +18,7 @@ All rectifier outputs contain considerable amount of ripple in addition to the D
 Capacitor input filter, choke input filter, RC, CRC, LC, and CLC filters are the usually used filters. Capacitor input filter is the simplest and cheapest. A high value capacitor C is connected in shunt with the load resistor     . Capacitor charges to peak voltage      when the half cycle appears at the output. After the peak value is passed, the capacitor discharges through the load resistor slowly since the diode is reverse biased by the capacitor voltage. Before the capacitor voltage drops substantially, next output cycle arrives and the capacitor recharges to peak.
 Rectifier Efficiency
 Rectifier efficiency is defined as the ratio of DC output power to the input power from the AC supply. Even with ideal rectifiers with no losses, the efficiency is less than 100% because some of the output power is AC power rather than DC which manifests as ripple superimposed on the DC waveform.
-# PROCEDURE:
+PROCEDURE:
 1.   Wire up the half wave rectifier circuit without capacitor after testing all the components.
 2.   Switch on the main supply. Observe the transformer secondary voltage waveform and output voltage waveform across the load resistor, simultaneously on the CRO screen. Note down       and calculate
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
